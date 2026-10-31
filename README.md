@@ -1,2 +1,2 @@
 # CopyDows-7
-This is a copy of windows 7 and can still run .exe and modern games. 
+Do not use this as your main OS but you cannot in the first place because it only permits Live Booting.
